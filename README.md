@@ -13,4 +13,5 @@ git clone https://github.com/renuthomas/LeakyBucket.git
 gcc LeakyBucketAlgorithm.c -o LeakyBucketAlgorithm.exe
 ```
 4.Run the program
+
 ![image](https://github.com/user-attachments/assets/5cfab58f-8528-4420-af25-c07fdc354314)
